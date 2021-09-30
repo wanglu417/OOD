@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2a2540c-35e5-492b-978a-bc026022ac9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderedListImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopScoreTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopScoreTrackerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MarbleSolitaireModelStarter/out/production/MarbleSolitaireModelStarter/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MarbleSolitaireModelStarter/out/production/MarbleSolitaireModelStarter/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MarbleSolitaireModelStarter/src/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MarbleSolitaireModelStarter/src/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/out/production/hw1/Vector3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/out/production/hw1/Vector3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1/src/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1/src/Vector3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/out/production/hw2/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/out/production/hw2/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw2/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarbleSolitaireModel/MarbleSolitaireModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarbleSolitaireModel/MarbleSolitaireModelImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/TypeChecks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/Lab1/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/Lab1/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/Lab1/src/IntPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/Lab1/src/IntPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/Lab3/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/Lab3/Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/Lab4/src/Lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/Lab4/src/Lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/Lab4/src/SList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/Lab4/src/SList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1vXzy64o1d7UO16yvNEm2Rn32i7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2a2540c-35e5-492b-978a-bc026022ac9e" name="Default Changelist" comment="" />
+      <created>1626723473401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626723473401</updated>
+    </task>
+    <servers />
+  </component>
+</project>

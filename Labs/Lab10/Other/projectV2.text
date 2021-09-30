@@ -1,0 +1,31 @@
+1. The overall topic of the project (a game, an inventory database, a music
+classifier, a tool to defeat "captcha"s involving stop lights, whatever), a
+clever algorithm to traverse a certain type of tree -- whatever!). Try to
+choose something that is authentically interesting to YOU.
+
+I am planning on building a Tetris game.
+
+2. Your likely partner(s), if any. Name(s) if known, ideal number if not.
+
+I am doing it SOLO.
+
+3. Format (e.g., a desktop app, an Android app, a web site with an embedded
+Java app? something else?).
+I wanted to first build a similar game as the snake game we learned during lecture, but may improve to a web site with
+an embedded Java app (It depends on if I will have enough time to make it happen).
+
+4. Your current best estimate of how many person-hours will be required to
+complete your project, broken down as follows:
+	 - defining
+	 - designing
+	 - researching
+	 - implementing
+	 - testing
+	 - debugging
+and a GRAND TOTAL.
+
+I think I need two weeks + to finish the game model part. If I wanted to upgrade it to a web-based game, I may need 4 weeks+.
+
+5. One thing you think you may need to learn in order to complete the project.
+
+I wanted to fully practice the MVC pattern and OOD principle we learned in lecture this semester.

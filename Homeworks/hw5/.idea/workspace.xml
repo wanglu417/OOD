@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a484a40a-e4cc-40e8-8a6a-6dbdbdcf6a0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MarbleSolitaireModelStarter/out/production/MarbleSolitaireModelStarter/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MarbleSolitaireModelStarter/out/production/MarbleSolitaireModelStarter/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MarbleSolitaireModelStarter/src/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MarbleSolitaireModelStarter/src/cs5004/marblesolitaire/model/MarbleSolitaireModelImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/OrderedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/OrderedListImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/OrderedListImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/Run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/TopScoreTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/src/TopScoreTrackerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/out/production/hw1/Vector3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/out/production/hw1/Vector3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/src/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/src/Vector3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/out/production/hw2/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm/out/production/midterm/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab1/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab1/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab1/src/IntPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab1/src/IntPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab3/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab3/Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab4/src/Lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab4/src/Lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab4/src/SList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab4/src/SList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vY1EaWXokoL1MoaOvnc6aF4B5M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderedListImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderedListImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderedListImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a484a40a-e4cc-40e8-8a6a-6dbdbdcf6a0c" name="Default Changelist" comment="" />
+      <created>1626724100851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626724100851</updated>
+    </task>
+    <servers />
+  </component>
+</project>
